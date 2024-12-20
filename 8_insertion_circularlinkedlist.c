@@ -37,7 +37,7 @@ struct node* insertAtFirst(struct node*head, int data){
     
     return head;
 }
-int main() {
+int main() { 
     struct node*head;
     struct node*second;
     struct node*third;
